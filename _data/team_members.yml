@@ -14,25 +14,26 @@
   info: Postdoc
   email: tingting.liu@nih.gov
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: 
+  education2: 
+  education3: 
 
 - name: Muhammad Mahbubur Rahman
   photo: mrahman.jpg
   info: Postdoc
   email: muhammad.rahman2@nih.gov
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  number_educ: 3
+  education1: Postdoctoral Fellow - Center for Language and Speech Processing - Johns Hopkins University, Baltimore, MD, USA
+  education2: Ph.D. - Computer Science - University of Maryland, Baltimore County - MD, USA
+  education3: M.S. - Information Technology - University of Dhaka - Dhaka, Bangladesh
 
 - name: Amanda Devoto
   photo: adevoto.jpg
   info: Postdoc
   email: amanda.devoto@nih.gov
   number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
+  education1: 
+  education2: 
 
 - name: Zachary Demko
   photo: zdemko.jpg
@@ -49,18 +50,25 @@
   info: Postbaccalaureate Fellow
   email: sophia.lou@nih.gov
   number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
+  education1: 
+  education2: 
   education3:
   education4:
+
+- name: Daniel Habib
+  photo: dhabib.jpg
+  info: Postbaccalaureate Fellow
+  email: daniel.habib@nih.gov
+  number_educ: 1
+  education1: BA Biophysics, Johns Hopkins University
 
 - name: Kenna Yadeta
   photo: kyadeta.jpg
   info: Postbaccalaureate Fellow
   email: kenna.yadetak@nih.gov
   number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
+  education1: 
+  education2: 
   education3:
   education4:
 
@@ -69,8 +77,8 @@
   info: App Developer
   email: doug.bellew@nih.gov
   number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
+  education1: 
+  education2: 
   education3:
   education4:
 
@@ -79,6 +87,11 @@
   info: Computer Systems Analyst
   email: sal.giorgi@nih.gov
   number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  education1: MS, Electrical Engineering, Temple University
+  education2: BS, Electrical Engineering, Temple University
+
+
+
+
+  
 
