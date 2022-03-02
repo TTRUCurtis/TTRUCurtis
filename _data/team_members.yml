@@ -31,9 +31,10 @@
   photo: adevoto.jpg
   info: Postdoc
   email: amanda.devoto@nih.gov
-  number_educ: 2
-  education1: 
-  education2: 
+  number_educ: 3
+  education1: PhD Psychology: Behavior Analysis, Western Michigan University
+  education2: MA Psychology, University of North Carolina Wilmington
+  education3: BA Psychology, James Madison University
 
 - name: Zachary Demko
   photo: zdemko.jpg
