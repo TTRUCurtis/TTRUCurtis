@@ -3,11 +3,11 @@
   info: Unit Chief
   email: brenda.curtis@nih.gov
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: PhD, Communication, University of Pennsylvania
+  education2: MsPH,  Public Health, University of Illinois at Urbana-Champaign
+  education3: BS, Biology, University of Illinois at Urbana-Champaign
+  education4: 2016-2019 Assistant Professor of Psychology in Psychiatry, Addictions, Perelman School of Medicine University of Pennsylvania, Philadelphia, PA
+  education5: 2019-present Tenure Track Clinical Investigator, National Institute on Drug Abuse Intramural Research Program, NIH, Baltimore, MD
 
 - name: TingTing Liu
   photo: tlui.jpg
@@ -19,7 +19,7 @@
   education3: B.S. East China University of Science and Technology
 
 - name: Muhammad Mahbubur Rahman
-  photo: Jiasen.png
+  photo: mrahman.jpg
   info: Postdoc
   email: muhammad.rahman2@nih.gov
   number_educ: 2
@@ -27,19 +27,19 @@
   education2: BSc Jilin University
 
 - name: Amanda Devoto
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
+  photo: adevoto.jpg
+  info: Postdoc
   email: amanda.devoto@nih.gov
   number_educ: 2
   education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
   education2: BSc Pohang University of Science and Technology (POSTECH)
 
 - name: Zachary Demko
-  photo: website_pic_willem.jpg
+  photo: zdemko.jpg
   info: Postbaccalaureate Fellow
   email: zach.demko@nih.gov
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
+  education1: BA Psychology and French, University of Wisconsin-Madison
   education2:
   education3:
   education4:
