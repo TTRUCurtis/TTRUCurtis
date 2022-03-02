@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Curtis Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Curtis Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -191,6 +191,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
