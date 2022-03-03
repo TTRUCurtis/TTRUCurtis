@@ -13,10 +13,12 @@
   photo: tlui.jpg
   info: Postdoc
   email: tingting.liu@nih.gov
-  number_educ: 3
-  education1: 
-  education2: 
-  education3: 
+  number_educ: 5
+  education1: Ph.D., Psychology, University of Michigan,  Ann Arbor, MI
+  education2: Graduate Certificate, Data Science, University of Michigan, Ann Arbor, MI
+  education3: M.Sc., Psychology, University of Michigan, Ann Arbor, MI
+  education4: M.Ed., Psychology, Renmin University of China, Beijing, China
+  education5: B.Eng., Computer Science, Sichuan University, Chengdu, China
 
 - name: Muhammad Mahbubur Rahman
   photo: mrahman.jpg
@@ -51,8 +53,8 @@
   info: Postbaccalaureate Fellow
   email: sophia.lou@nih.gov
   number_educ: 2
-  education1: 
-  education2: 
+  education1: BA Public Health Studies, Johns Hopkins University
+  education2: BM Oboe Performance, Peabody Institute of the Johns Hopkins University
   education3:
   education4:
 
