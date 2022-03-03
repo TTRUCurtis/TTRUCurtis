@@ -8,16 +8,32 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Elise Bragard
+  photo: ebragard.jpg
+  info: PhD student at Fordham University
+  email: ebragard@fordham.edu
+  number_educ: 4
+  education1: M.A., Applied Developmental Psychology, Fordham University, Bronx, NY
+  education2: M.A., Women’s & Gender Studies, CUNY Graduate Center, New York, NY
+  education3: M.A., Theatre Education, Emerson College, Boston, MA
+  education4: B.S., Mathematics, University of Bristol, Bristol, United Kingdom
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Aaliyah Gray
+  photo: agray.jpg
+  info: PhD student at Fordham University
+  email: agray11@fordham.edu
+  number_educ: 2
+  education1: M.A., Applied Developmental Psychology, Fordham University, Bronx, NY
+  education2: B.A., Stetson University, Deland, FL
+
+
+- name: Xiangyu Tao
+  photo: xtao.jpg
+  info: PhD student at Fordham University
+  email: xtao16@fordham.edu
+  number_educ: 3
+  education1: M.A., Applied Developmental Psychology, Fordham University
+  education2: M.A., Social Sciences,  University of Chicago, Chicago, IL
+  education3: B.S., Psychology, University of Washington, Seattle, Seattle, WA
+
+

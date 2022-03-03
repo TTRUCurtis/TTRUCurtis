@@ -70,23 +70,23 @@
   info: Postbaccalaureate Fellow
   email: kenna.yadetak@nih.gov
   number_educ: 2
-  education1: 
-  education2: 
-  education3:
+  education1: Masters of Public Health, in Community Health and Prevention, Drexel University- Dornsife School of Public Health
+  education2: BS, Cognitive and Behavioral Neuroscience, Villanova University
+  education3: 
   education4:
 
 - name: Doug Bellew
   photo: dbellew.jpg
   info: App Developer
   email: doug.bellew@nih.gov
-  number_educ: 2
-  education1: 
-  education2: 
-  education3:
+  number_educ: 3
+  education1: 20 years, IT development and Tech Lead
+  education2: 3 years Project Management
+  education3: 5 years IT Manager and Director
   education4:
 
 - name: Salvatore Giorgi
-  photo: sgiorgi.jpg
+  photo: bio-photo.jpg
   info: Computer Systems Analyst
   email: sal.giorgi@nih.gov
   number_educ: 2
