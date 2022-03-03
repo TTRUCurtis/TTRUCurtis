@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+The Curtis Lab pairs traditional methodologies with computational psychiatry to study the digital phenotypes of people who use drugs. While much of the labs focus is on converting raw signals from digital data sources into useful clinical insights, the TTRU is very much committed to solving problems experienced by people in recovery and undergoing substance use treatment. Through clinical research, the Curtis lab intersects addiction treatment, computational psychiatry, and innovative technologies. Using natural-language processing, digital phenotyping, and deep learning, the lab focuses on enhancing precision assessment of substance use and behavioral predictors using intensive longitudinal data and integrating passive sensor data from smartphones and wearable devices. Among others, an overall goal is to develop personalized smartphone interventions for individuals living with SUD to enhance the recovery experience. Other areas of research focus on the intersect between addiction and Covid and on the impact of stigma on addiction.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -24,22 +24,22 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/carousel/brc.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/carousel/surveillance.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/carousel/participant.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/carousel/posterday2.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/carousel/model-pipeline.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/carousel/clinic2.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -51,11 +51,6 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
 
 
