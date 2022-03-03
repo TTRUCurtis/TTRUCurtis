@@ -13,19 +13,19 @@
   description: 
   authors: Devoto, A., Himelein-Wachowiak, M., Liu, T, & Curtis, B.
   link:
-    url: 
+    url: https://doi.org/10.1016/j.whi.2022.01.004
     display: Women’s Health Issues (2022)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "COVID-Related Victimization, Racial Bias and Employment and Housing Disruption Increase Mental Health Risk Among US Asian, Black and Latinx Adults"
   image: 
-  description: 
+  description: We examine the new factors created or exacerbated by the COVID-19 pandemic that increase mental health disparities experienced by US Asian, Black and Latinx Adults.
   authors: Fisher, C. B., Tao, X., Liu, T., Giorgi, S., & Curtis, B.
   link:
-    url: 
+    url: https://doi.org/10.3389/fpubh.2021.772236
     display: Frontiers in Public Health (2021)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Loneliness and Daily Alcohol Consumption During the COVID-19 Pandemic"
@@ -35,7 +35,7 @@
   link:
     url: https://doi.org/10.1093/alcalc/agab056
     display: Alcohol and Alcoholism (2021)
-  highlight: 0
+  highlight: 1
   news2: 
 
 
@@ -66,7 +66,7 @@
   description: 
   authors: Kwarteng, A. E., Rahman, M. M., Gee, D. G., Infante, M. A., Tapert, S. F., & Curtis, B.
   link:
-    url: https://doi.org/https://doi.org/10.1016/j.addbeh.2021.107034
+    url: https://doi.org/10.1016/j.addbeh.2021.107034
     display: Addictive Behaviors (2021)
   highlight: 0
   news2: 
@@ -99,9 +99,9 @@
   description: 
   authors: Himelein-Wachowiak, M., Giorgi, S., Devoto, A., Rahman, M., Ungar, L., Schwartz, H. A., Epstein, D. H., Leggio, L., & Curtis, B. 
   link:
-    url: 
+    url: https://doi.org/10.2196/26933
     display: Journal of Medical Internet Research (2021)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Accuracy of Consumer‐marketed smartphone‐paired alcohol breath testing devices: A laboratory validation study"
@@ -142,9 +142,9 @@
   description: 
   authors: Giorgi, S., Yaden, D. B., Eichstaedt, J. C., Ashford, R. D., Buffone, A. E., Schwartz, H. A., Ungar, L. H., & Curtis, B.
   link:
-    url: 
+    url: https://doi.org/10.3390/ijerph17041125
     display: International Journal of Environmental Research and Public Health (2020)
-  highlight: 0
+  highlight: 1
   news2: 
 
 
@@ -159,7 +159,7 @@
   news2: 
 
 
-- title: "'They know what they are getting into:' Researchers confront the benefits and challenges of online recruitment for HIV research"
+- title: "'They know what they are getting into': Researchers confront the benefits and challenges of online recruitment for HIV research"
   image: 
   description: 
   authors: Bragard, E., Fisher, C. B., & Curtis, B.
