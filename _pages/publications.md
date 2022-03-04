@@ -32,7 +32,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
-  <p> [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">PDF</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>]</p>
+  <p> [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">pdf</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>]</p>
  </div>
 </div>
 
@@ -59,6 +59,6 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-  [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">PDF</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>]
+  [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">pdf</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>]
 
 {% endfor %}
