@@ -1,0 +1,5 @@
+@article{bragard2021loneliness,
+  title={Loneliness and Daily Alcohol Consumption During the COVID-19 Pandemic},
+  author={Bragard, Elise and Giorgi, Salvatore and Juneau, Paul and Curtis, Brenda L},
+  journal={Alcohol and Alcoholism}
+}

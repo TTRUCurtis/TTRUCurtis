@@ -7,6 +7,8 @@
     display: Journal of Behavioral Addictions (in press)
   highlight: 1
   news2: 
+  bib: 
+  pdf: 
 
 - title: "Women’s substance use and mental health during the COVID-19 pandemic"
   image: 
@@ -17,6 +19,8 @@
     display: Women’s Health Issues (2022)
   highlight: 1
   news2: 
+  bib: 
+  pdf: 
 
 - title: "COVID-Related Victimization, Racial Bias and Employment and Housing Disruption Increase Mental Health Risk Among US Asian, Black and Latinx Adults"
   image: 
@@ -27,6 +31,8 @@
     display: Frontiers in Public Health (2021)
   highlight: 1
   news2: 
+  bib: 
+  pdf: 
 
 - title: "Loneliness and Daily Alcohol Consumption During the COVID-19 Pandemic"
   image: 
@@ -37,6 +43,8 @@
     display: Alcohol and Alcoholism (2021)
   highlight: 1
   news2: 
+  bib: bragard2021loneliness.bib
+  pdf: bragard2021loneliness.pdf
 
 
 - title: "A daily diary study into the effects on mental health of COVID-19 pandemic related behaviors"
@@ -48,6 +56,8 @@
     display: Psychological Medicine (2021)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Efficacy and comparative effectiveness of telephone and smartphone remote continuing care interventions for alcohol use disorder: A randomized controlled trial"
@@ -59,6 +69,8 @@
     display: Addiction (2021)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Child reward neurocircuitry and parental substance use history: Findings from the adolescent brain cognitive development study"
@@ -70,6 +82,8 @@
     display: Addictive Behaviors (2021)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Beyond abstinence and relapse II: Momentary relationships between stress, craving, and lapse within clusters of patients with similar patterns of drug use"
@@ -81,6 +95,8 @@
     display: Psychopharmacology (2021)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Alcohol‐associated liver disease before and after COVID‐19—An overview and call for ongoing investigation"
@@ -92,6 +108,8 @@
     display: Hepatology Communications (2021)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Bots and misinformation spread on social media: Implications for COVID-19"
@@ -103,6 +121,8 @@
     display: Journal of Medical Internet Research (2021)
   highlight: 1
   news2: 
+  bib: 
+  pdf: 
 
 - title: "Accuracy of Consumer‐marketed smartphone‐paired alcohol breath testing devices: A laboratory validation study"
   image: 
@@ -113,6 +133,8 @@
     display: "Alcoholism: Clinical and Experimental Research (2021)"
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Perceived risks and amelioration of harm in research using mobile technology to support antiretroviral therapy adherence in the context of methamphetamine use: A focus group study among minorities living with HIV"
@@ -124,6 +146,8 @@
     display: Harm Reduction Journal (2020)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Perceived confidentiality risks of mobile technology-based ecologic momentary assessment to assess high-risk behaviors among rural men who have sex with men"
@@ -135,6 +159,8 @@
     display: Archives of Sexual Behavior (2020)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Cultural differences in Tweeting about drinking across the US"
@@ -146,6 +172,8 @@
     display: International Journal of Environmental Research and Public Health (2020)
   highlight: 1
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Prediction of stress and drug craving ninety minutes in the future with passively collected GPS data"
@@ -157,6 +185,8 @@
     display: NPJ Digital Medicine (2020)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "'They know what they are getting into': Researchers confront the benefits and challenges of online recruitment for HIV research"
@@ -168,6 +198,8 @@
     display: Ethics & Behavior (2020)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Digital recovery networks: Characterizing user participation, engagement, and outcomes of a novel recovery social network smartphone application"
@@ -179,6 +211,8 @@
     display: Journal of Substance Abuse Treatment (2020)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 - title: "Systematic review: Digital recovery support services used to support substance use disorder recovery"
   image: 
@@ -189,6 +223,8 @@
     display: Human Behavior and Emerging Technologies (2020)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 - title: "Building recovery ready communities: The recovery ready ecosystem model and community framework"
@@ -200,6 +236,8 @@
     display: Addiction Research & Theory (2020)
   highlight: 0
   news2: 
+  bib: 
+  pdf: 
 
 
 

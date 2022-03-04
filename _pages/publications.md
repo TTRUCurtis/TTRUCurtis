@@ -58,5 +58,6 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">PDF</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>]
 
 {% endfor %}
