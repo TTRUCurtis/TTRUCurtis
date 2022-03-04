@@ -32,20 +32,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
-  <p> [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">pdf</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>
-  {% if publi.data %}
-  <a href="{{ publi.data }}">data</a>; 
-  {% endif %}
-  {% if publi.code %}
-  <a href="{{ publi.code }}">code</a>; 
-  {% endif %}
-  {% if publi.supplement %}
-  <a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.supplement }}">supplement</a>; 
-  {% endif %}
-  {% if publi.prereg %}
-  <a href="{{ publi.prereg }}">preregistration</a>; 
-  {% endif %}
-  ]</p>
+  <p> [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">pdf</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>{% if publi.data %}<a href="{{ publi.data }}">data</a>;{% endif %}{% if publi.code %}<a href="{{ publi.code }}">code</a>;{% endif %}{% if publi.supplement %}<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.supplement }}">supplement</a>;{% endif %}{% if publi.prereg %}<a href="{{ publi.prereg }}">preregistration</a>;{% endif %}]</p>
  </div>
 </div>
 
@@ -72,18 +59,6 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-  [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">pdf</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>
-  {% if publi.data %}
-  <a href="{{ publi.data }}">data</a>; 
-  {% endif %}
-  {% if publi.code %}
-  <a href="{{ publi.code }}">code</a>; 
-  {% endif %}
-  {% if publi.supplement %}
-  <a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.supplement }}">supplement</a>; 
-  {% endif %}
-  {% if publi.prereg %}
-  <a href="{{ publi.prereg }}">preregistration</a>; 
-  {% endif %}]
+  [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">pdf</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>{% if publi.data %}<a href="{{ publi.data }}">data</a>;{% endif %}{% if publi.code %}<a href="{{ publi.code }}">code</a>;{% endif %}{% if publi.supplement %}<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.supplement }}">supplement</a>;{% endif %}{% if publi.prereg %}<a href="{{ publi.prereg }}">preregistration</a>;{% endif %}]
 
 {% endfor %}
