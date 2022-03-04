@@ -59,6 +59,10 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
   <li> {{ member.education5 }} </li>
   {% endif %}
 
+  {% if member.website %}
+<a href="{{ member.website }}">SOMESTUFF HERE</a>
+  {% endif %}
+
   </ul>
 </div>
 
