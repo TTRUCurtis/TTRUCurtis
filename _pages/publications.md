@@ -32,6 +32,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
+  <p> [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">PDF</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>]</p>
  </div>
 </div>
 
