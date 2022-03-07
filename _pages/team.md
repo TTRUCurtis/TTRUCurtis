@@ -24,11 +24,9 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  {% if member.website %}
-  <a href="{{ member.website }}"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
-  {% else %}
+  
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% endif %}
+  
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -62,6 +60,8 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+
+  {% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe"></i></a>{% endif %}
 
 
 
