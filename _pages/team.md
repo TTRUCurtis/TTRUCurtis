@@ -29,6 +29,9 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
   
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+
+  {% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe fa-lg" style="color:black"></i></a>{% endif %} {% if member.gscholar %}<a href="{{ member.gscholar }}"><i class="fa-brands fa-google fa-lg" style="color:black"></i></a>{% endif %} {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin fa-lg" style="color:black"></i></a>{% endif %} {% if member.researchgate %}<a href="{{ member.researchgate }}"><i class="fa-brands fa-researchgate fa-lg" style="color:black"></i></a>{% endif %}
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -63,7 +66,7 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
 
   </ul>
 
-  {% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe fa-lg" style="color:black"></i></a>{% endif %} {% if member.gscholar %}<a href="{{ member.gscholar }}"><i class="fa-brands fa-google fa-lg" style="color:black"></i></a>{% endif %} {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin fa-lg" style="color:black"></i></a>{% endif %} {% if member.researchgate %}<a href="{{ member.researchgate }}"><i class="fa-brands fa-researchgate fa-lg" style="color:black"></i></a>{% endif %}
+  
 
   
 </div>
