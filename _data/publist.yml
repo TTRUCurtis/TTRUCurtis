@@ -23,8 +23,8 @@
     display: Women’s Health Issues (2022)
   highlight: 1
   news2: 
-  bib: 
-  pdf: 
+  bib: devoto2022women.bib
+  pdf: devoto2022women.pdf
   data: 
   code: 
   supplement: 
@@ -72,8 +72,8 @@
     display: Psychological Medicine (2021)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: shaw2021daily.bib
+  pdf: shaw2021daily.pdf
   data: 
   code: 
   supplement: 
@@ -89,8 +89,8 @@
     display: Addiction (2021)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: mckay2021efficacy.bib
+  pdf: mckay2021efficacy.pdf
   data: 
   code: 
   supplement: 
@@ -106,8 +106,8 @@
     display: Addictive Behaviors (2021)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: kwarteng2021child.bib
+  pdf: kwarteng2021child.pdf
   data: 
   code: 
   supplement: 
@@ -123,8 +123,8 @@
     display: Psychopharmacology (2021)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: panlilio2021beyond.bib
+  pdf: panlilio2021beyond.pdf
   data: 
   code: 
   supplement: 
@@ -140,8 +140,8 @@
     display: Hepatology Communications (2021)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: moon2021alcohol.bib
+  pdf: moon2021alcohol.pdf
   data: 
   code: 
   supplement: 
@@ -173,8 +173,8 @@
     display: "Alcoholism: Clinical and Experimental Research (2021)"
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: delgado2021accuracy.bib
+  pdf: delgado2021accuracy.pdf
   data: 
   code: 
   supplement: 
@@ -190,8 +190,8 @@
     display: Harm Reduction Journal (2020)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: pasipanodya2020perceived.bib
+  pdf: pasipanodya2020perceived.pdf
   data: 
   code: 
   supplement: 
@@ -207,8 +207,8 @@
     display: Archives of Sexual Behavior (2020)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: hubach2021perceived.bib
+  pdf: hubach2021perceived.pdf
   data: 
   code: 
   supplement: 
@@ -241,8 +241,8 @@
     display: NPJ Digital Medicine (2020)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: epstein2020prediction.bib
+  pdf: epstein2020prediction.pdf
   data: 
   code: 
   supplement: 
@@ -258,8 +258,8 @@
     display: Ethics & Behavior (2020)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: bragard2020they.bib
+  pdf: bragard2020they.pdf
   data: 
   code: 
   supplement: 
@@ -275,8 +275,8 @@
     display: Journal of Substance Abuse Treatment (2020)
   highlight: 0
   news2: 
-  bib: ashford2019digital.bib
-  pdf: ashford2019digital.pdf
+  bib: ashford2020digital.bib
+  pdf: ashford2020digital.pdf
   data: 
   code: 
   supplement: 
@@ -291,8 +291,8 @@
     display: Human Behavior and Emerging Technologies (2020)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: ashford2020building.bib
+  pdf: ashford2020building.pdf
   data: 
   code: 
   supplement: 
@@ -308,12 +308,26 @@
     display: Addiction Research & Theory (2020)
   highlight: 0
   news2: 
-  bib: 
-  pdf: 
+  bib: ashford2020systematic.bib
+  pdf: ashford2020systematic.pdf
   data: 
   code: 
   supplement: 
   prereg: 
 
+- title: "Engaging the African American church to improve communication about palliative care and hospice: Lessons from a multilevel approach"
+  image: 
+  description: 
+  authors: Johnson, J., Hayden, T., Taylor, L. A., Gilbert, A., Jones Jr, C. H., Mitchell, M. P. H., & Curtis, B.
+  link:
+    url: https://doi.org/10.1177/0825859718810718
+    display: Journal of Palliative Care (2019)
+  highlight: 0
+  news2: 
+  bib: johnson2019engaging.bib
+  pdf: johnson2019engaging.pdf
+  data: 
+  code: 
+  supplement: 
 
 
