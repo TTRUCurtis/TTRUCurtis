@@ -384,7 +384,7 @@
     display:  Addiction Research & Theory (2018)
   highlight: 
   news2: 
-  bib: ashford2018we.bib.txt
+  bib: ashford2018we.bib
   pdf: ashford2018we.pdf
   data: 
   code: 
@@ -460,7 +460,7 @@
     display: International Journal of Drug Policy (2015)
   highlight: 
   news2: 
-  bib: meyers2015availability.bib.txt
+  bib: meyers2015availability.bib
   pdf: meyers2015availability.pdf
   data: 
   code: 
