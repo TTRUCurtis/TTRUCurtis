@@ -61,9 +61,11 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  {% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe fa-lg" style="color:black"></i></a>{% endif %} {% if member.gscholar %}<a href="{{ member.gscholar }}"><i class="fa-brands fa-google fa-lg" style="color:black"></i></a>{% endif %} {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin fa-lg" style="color:black"></i></a>{% endif %} {% if member.researchgate %}<a href="{{ member.researchgate }}"><i class="fafa-brands fa-researchgate fa-lg" style="color:black"></i></a>{% endif %}
-
   </ul>
+
+  {% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe fa-lg" style="color:black"></i></a>{% endif %} {% if member.gscholar %}<a href="{{ member.gscholar }}"><i class="fa-brands fa-google fa-lg" style="color:black"></i></a>{% endif %} {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin fa-lg" style="color:black"></i></a>{% endif %} {% if member.researchgate %}<a href="{{ member.researchgate }}"><i class="fa-brands fa-researchgate fa-lg" style="color:black"></i></a>{% endif %}
+
+  
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
