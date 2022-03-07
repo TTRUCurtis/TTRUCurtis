@@ -61,9 +61,7 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  {% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe"></i></a>{% endif %}
-
-
+  {% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe fa-lg"></i></a>{% endif %} {% if member.gscholar %}<a href="{{ member.gscholar }}"><i class="fa-solid fa-google fa-lg"></i></a>{% endif %} {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-solid fa-linkedin fa-lg"></i></a>{% endif %} {% if member.researchgate %}<a href="{{ member.researchgate }}"><i class="fa-solid fa-researchgate fa-lg"></i></a>{% endif %}
 
   </ul>
 </div>
