@@ -414,7 +414,7 @@
   authors: "Curtis, B., Ashford, R., Rosenbach, S., Stern, M., & Kirby, K."
   link:
     url: https://doi.org/10.1080/09687637.2017.1383973
-    display: Drugs: Education, Prevention and Policy (2019)
+    display: "Drugs: Education, Prevention and Policy (2019)"
   highlight: 0
   news2: 
   bib: curtis2019parental.bib
@@ -446,7 +446,7 @@
   authors: Ashford, R. D., & Curtis, B. L. 
   link:
     url: https://doi.org/10.1111/acer.13945
-    display: Alcoholism: Clinical and Experimental Research (2019)
+    display: "Alcoholism: Clinical and Experimental Research (2019)"
   highlight: 0
   news2: 
   bib: ashford2019commentary.bib
@@ -471,4 +471,84 @@
   code: 
   supplement: 
 
+
+
+- title: "“Abusing addiction”: Our language still isn’t good enough"
+  image: 
+  description: 
+  authors: Ashford, R. D., Brown, A. M., & Curtis, B. 
+  link:
+    url: https://doi.org/10.1080/07347324.2018.1513777
+    display: Alcoholism Treatment Quarterly (2019)
+  highlight: 0
+  news2: 
+  bib: ashford2019abusing.bib
+  pdf: ashford2019abusing.pdf
+  data: 
+  code: 
+  supplement: 
+
+
+- title: "The language of substance use and recovery: Novel use of the go/no–go association task to measure implicit bias"
+  image: 
+  description: 
+  authors: Ashford, R. D., Brown, A. M., & Curtis, B.  
+  link:
+    url: https://doi.org/10.1080/10410236.2018.1481709
+    display: Health Communication (2019)
+  highlight: 0
+  news2: 
+  bib: ashford2019language.bib
+  pdf: ashford2019language.pdf
+  data: 
+  code: 
+  supplement: 
+
+
+- title: "A mixed-methods exploration of the role and impact of stigma and advocacy on substance use disorder recovery"
+  image: 
+  description: 
+  authors: Ashford, R. D., Brown, A. M., Canode, B., McDaniel, J., & Curtis, B. 
+  link:
+    url: https://doi.org/10.1080/07347324.2019.1585216
+    display: Alcoholism Treatment Quarterly (2019)
+  highlight: 0
+  news2: 
+  bib: ashford2019mixed.bib
+  pdf: ashford2019mixed.pdf
+  data: 
+  code: 
+  supplement: 
+
+
+- title: "Expanding language choices to reduce stigma: A Delphi study of positive and negative terms in substance use and recovery"
+  image: 
+  description: 
+  authors: Ashford, R. D., Brown, A., & Curtis, B.   
+  link:
+    url: https://doi.org/10.1108/HE-03-2018-0017
+    display: Health Education (2019)
+  highlight: 0
+  news2: 
+  bib: ashford2019expanding.bib
+  pdf: ashford2019expanding.pdf
+  data: 
+  code: 
+  supplement: 
+
+
+- title: "Engaging the African American church to improve communication about palliative care and hospice: Lessons from a multilevel approach"
+  image: 
+  description: 
+  authors: Johnson, J., Hayden, T., Taylor, L. A., Gilbert, A., Jones Jr, C. H., Mitchell, M. P. H., & Curtis, B.
+  link:
+    url: https://doi.org/10.1177/0825859718810718
+    display: Journal of Palliative Care (2019)
+  highlight: 0
+  news2: 
+  bib: johnson2019engaging.bib
+  pdf: johnson2019engaging.pdf
+  data: 
+  code: 
+  supplement: 
 
