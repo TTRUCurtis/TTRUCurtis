@@ -30,5 +30,154 @@
   supplement: 
   prereg: 
 
+- title: "COVID-Related Victimization, Racial Bias and Employment and Housing Disruption Increase Mental Health Risk Among US Asian, Black and Latinx Adults"
+  image: fishercovid.jpg
+  description: We examine the new factors created or exacerbated by the COVID-19 pandemic that increase mental health disparities experienced by US Asian, Black and Latinx Adults.
+  authors: Fisher, C. B., Tao, X., Liu, T., Giorgi, S., & Curtis, B.
+  link:
+    url: https://doi.org/10.3389/fpubh.2021.772236
+    display: Frontiers in Public Health (2021)
+  highlight: 1
+  news2: 
+  bib: fishercovid.bib
+  pdf: fishercovid.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Loneliness and Daily Alcohol Consumption During the COVID-19 Pandemic"
+  image: bragard2021loneliness.jpg
+  description: In this pilot study we examined the within-person and between-person associations between daily loneliness and alcohol use among adults during the COVID-19 pandemic. We found that on days when people were lonelier than usual, they drank less alcohol. However, people who were lonelier on average drank more alcohol each day. 
+  authors: Bragard, E., Giorgi, S., Juneau, P., & Curtis, B.
+  link:
+    url: https://doi.org/10.1093/alcalc/agab056
+    display: Alcohol and Alcoholism (2021)
+  highlight: 1
+  news2: 
+  bib: bragard2021loneliness.bib
+  pdf: bragard2021loneliness.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
+- title: "A daily diary study into the effects on mental health of COVID-19 pandemic related behaviors"
+  image: 
+  description: 
+  authors: Shaw, P., Blizzard, S., Shastri, G., Kundzicz, P., Curtis, B., Ungar, L., & Koehly, L.
+  link:
+    url: https://doi.org/10.1017/S0033291721001896
+    display: Psychological Medicine (2021)
+  highlight: 0
+  news2: 
+  bib: shaw2021daily.bib
+  pdf: shaw2021daily.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
+- title: "Efficacy and comparative effectiveness of telephone and smartphone remote continuing care interventions for alcohol use disorder: A randomized controlled trial"
+  image: 
+  description: 
+  authors: McKay, J. R., Gustafson, D. H., Ivey, M., Pe-Romashko, K., Curtis, B., Thomas, T., Oslin, D. W., Polsky, D., Quanbeck, A., & Lynch, K. G.
+  link:
+    url: https://doi.org/10.1111/add.15771
+    display: Addiction (2021)
+  highlight: 0
+  news2: 
+  bib: mckay2021efficacy.bib
+  pdf: mckay2021efficacy.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
+- title: "Child reward neurocircuitry and parental substance use history: Findings from the adolescent brain cognitive development study"
+  image: 
+  description: 
+  authors: Kwarteng, A. E., Rahman, M. M., Gee, D. G., Infante, M. A., Tapert, S. F., & Curtis, B.
+  link:
+    url: https://doi.org/10.1016/j.addbeh.2021.107034
+    display: Addictive Behaviors (2021)
+  highlight: 0
+  news2: 
+  bib: kwarteng2021child.bib
+  pdf: kwarteng2021child.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
+- title: "Beyond abstinence and relapse II: Momentary relationships between stress, craving, and lapse within clusters of patients with similar patterns of drug use"
+  image: 
+  description: 
+  authors: Panlilio, L. V., Stull, S. W., Bertz, J. W., Burgess-Hull, A. J., Lanza, S. T., Curtis, B. L., Phillips, K. A., Epstein, D. H., & Preston, K. L.
+  link:
+    url: https://doi.org/10.1007/s00213-021-05782-2
+    display: Psychopharmacology (2021)
+  highlight: 0
+  news2: 
+  bib: panlilio2021beyond.bib
+  pdf: panlilio2021beyond.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
+- title: "Alcohol‐associated liver disease before and after COVID‐19—An overview and call for ongoing investigation"
+  image: 
+  description: 
+  authors: Moon, A. M., Curtis, B., Mandrekar, P., Singal, A. K., Verna, E. C., & Fix, O. K.
+  link:
+    url: https://doi.org/10.1002/hep4.1747
+    display: Hepatology Communications (2021)
+  highlight: 0
+  news2: 
+  bib: moon2021alcohol.bib
+  pdf: moon2021alcohol.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
+- title: "Bots and misinformation spread on social media: Implications for COVID-19"
+  image: himeleinwachowiak2021covid.jpg
+  description: "We reviewed the characteristics of bots that make them likely to be contributors to the rapid spread of misinformation, and demonstrate that many known bot networks are tweeting about COVID-19."
+  authors: Himelein-Wachowiak, M., Giorgi, S., Devoto, A., Rahman, M., Ungar, L., Schwartz, H. A., Epstein, D. H., Leggio, L., & Curtis, B. 
+  link:
+    url: https://doi.org/10.2196/26933
+    display: Journal of Medical Internet Research (2021)
+  highlight: 1
+  news2: 
+  bib: himeleinwachowiak2021covid.bib
+  pdf: himeleinwachowiak2021covid.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Accuracy of Consumer‐marketed smartphone‐paired alcohol breath testing devices: A laboratory validation study"
+  image: 
+  description: 
+  authors: Delgado, M. K., Shofer, F., Wetherill, R., Curtis, B., Hemmons, J., Spencer, E., Branas, C., Wiebe, D. J., & Kranzler, H. R.
+  link:
+    url: https://doi.org/10.1111/acer.14597
+    display: "Alcoholism: Clinical and Experimental Research (2021)"
+  highlight: 0
+  news2: 
+  bib: delgado2021accuracy.bib
+  pdf: delgado2021accuracy.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
 
 
