@@ -21,6 +21,7 @@
   gscholar: 
   linkedin: 
   researchgate: 
+  twitter: 
 
 - name: Aaliyah Gray
   photo: agray.jpg
@@ -32,7 +33,8 @@
   website: 
   gscholar: 
   linkedin: 
-  researchgate: 
+  researchgate: https://www.researchgate.net/profile/Aaliyah_Gray
+  twitter: https://twitter.com/aaliyahgray_
 
 
 - name: Xiangyu Tao
@@ -47,5 +49,6 @@
   gscholar: 
   linkedin: https://scholar.google.com/citations?user=rMh9t9YAAAAJ&hl=en&oi=ao
   researchgate: https://www.researchgate.net/profile/Xiangyu_Tao2
+  twitter: 
 
 
