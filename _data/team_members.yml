@@ -30,34 +30,6 @@
   researchgate: https://www.researchgate.net/profile/Tingting-Liu-28
   twitter: 
 
-- name: Muhammad Mahbubur Rahman
-  photo: mrahman.jpg
-  info: Postdoc
-  email: muhammad.rahman2@nih.gov
-  number_educ: 3
-  education1: Postdoctoral Fellow - Center for Language and Speech Processing - Johns Hopkins University, Baltimore, MD, USA
-  education2: Ph.D. - Computer Science - University of Maryland, Baltimore County - MD, USA
-  education3: M.S. - Information Technology - University of Dhaka - Dhaka, Bangladesh
-  website: 
-  gscholar: http://scholar.google.com/citations?user=EqVbKDgAAAAJ&hl=en
-  linkedin: http://www.linkedin.com/in/muhammad-mahbubur-rahman
-  researchgate: 
-  twitter: 
-
-- name: Amanda Devoto
-  photo: adevoto.jpg
-  info: Postdoc
-  email: amanda.devoto@nih.gov
-  number_educ: 3
-  education1: PhD Psychology, Behavior Analysis, Western Michigan University
-  education2: MA Psychology, University of North Carolina Wilmington
-  education3: BA Psychology, James Madison University
-  website: 
-  gscholar: https://scholar.google.com/citations?hl=en&user=xS-1J3UAAAAJ
-  linkedin: https://www.linkedin.com/in/amanda-devoto/
-  researchgate: https://www.researchgate.net/profile/Amanda-Devoto
-  twitter: 
-
 - name: Zachary Demko
   photo: zdemko.jpg
   info: Postbaccalaureate Fellow
@@ -88,30 +60,18 @@
   researchgate: 
   twitter: 
 
-- name: Daniel Habib
-  photo: dhabib.jpg
+- name: Zachary Fried
+  photo: zfried.jpg
   info: Postbaccalaureate Fellow
-  email: daniel.habib@nih.gov
+  email: zachary.fried@nih.gov
   number_educ: 1
-  education1: BA Biophysics, Johns Hopkins University
-  website: 
-  gscholar: https://scholar.google.com/citations?user=shz9CgMAAAAJ&hl=en
-  linkedin: https://www.linkedin.com/in/dhabib2000/
-  researchgate: 
-  twitter: 
-
-- name: Kenna Yadeta
-  photo: kyadeta.jpg
-  info: Postbaccalaureate Fellow
-  email: kenna.yadetak@nih.gov
-  number_educ: 2
-  education1: Masters of Public Health, in Community Health and Prevention, Drexel University- Dornsife School of Public Health
-  education2: BS, Cognitive and Behavioral Neuroscience, Villanova University
-  education3: 
+  education1: BS Chemistry, Oregon State University
+  education2: 
+  education3:
   education4:
   website: 
   gscholar: 
-  linkedin: https://www.linkedin.com/in/kyadeta/
+  linkedin: https://www.linkedin.com/in/friedz/
   researchgate: 
   twitter: 
 

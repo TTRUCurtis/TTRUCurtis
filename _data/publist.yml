@@ -1,3 +1,52 @@
+- title: "Linguistic predictors from Facebook postings of substance use disorder treatment retention versus discontinuation"
+  image: 
+  description: 
+  authors: Liu, T., Giorgi, S., Yadeta, K., Schwartz, H.A., Ungar, L.H., & Curtis, B.
+  link:
+    url: https://doi.org/10.1080/00952990.2022.2091450
+    display: The American Journal of Drug and Alcohol Abuse (2022)
+  highlight: 0
+  news2: 
+  bib: liu2022linguistic.bib
+  pdf: liu2022linguistic.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Nonsuicidal Self-Injury and Substance Use Disorders: A Shared Language of Addiction"
+  image: 
+  description: 
+  authors: Giorgi, S., Himelein-Wachowiak, M., Habib, D., Ungar, L.H., & Curtis, B.
+  link:
+    url: https://aclanthology.org/2022.clpsych-1.15/
+    display: Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (2022)
+  highlight: 0
+  news2: 
+  bib: giorgi2022nonsuicidal.bib
+  pdf: giorgi2022nonsuicidal.pdf
+  data: 
+  code: 
+  supplement: giorgi2022nonsuicidal_supp.pdf
+  prereg: 
+
+- title: "Twitter Corpus of the #BlackLivesMatter Movement and Counter Protests: 2013 to 2021"
+  image: 
+  description: 
+  authors: Giorgi, S., Guntuku, S. C., Himelein-Wachowiak, M., Kwarteng, A., Hwang, S., Rahman, M., & Curtis, B. 
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/19373
+    display: Proceedings of the International AAAI Conference on Web and Social Media (2022)
+  highlight: 0
+  news2: 
+  bib: giorgi2022twitter.bib
+  pdf: giorgi2022twitter.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
 - title: "Getting 'clean' from nonsuicidal self-injury: Experiences of addiction on the subreddit r/selfharm"
   image: himeleinwachowiak2022getting.jpg
   description: "Using a mixed-methods approach, we examined addiction in the context of nonsuicidal self-injury by coding posts on the subreddit r/selfharm for adapted substance use disorder symptoms and language such as 'clean,' 'recovery,' and 'relapse.'"
