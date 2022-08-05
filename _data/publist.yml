@@ -30,6 +30,22 @@
   supplement: giorgi2022nonsuicidal_supp.pdf
   prereg: 
 
+- title: "Using Facebook language to predict and describe excessive alcohol use"
+  image: 
+  description: 
+  authors: Jose, R., Matero, M., Sherman, G., Curtis, B., Giorgi, S.,  Schwartz, H.A., & Ungar, L.H.
+  link:
+    url: https://doi.org/10.1111/acer.14807
+    display: "Alcoholism: Clinical and Experimental Research (2022)"
+  highlight: 0
+  news2: 
+  bib: jose2022using.bib
+  pdf: jose2022using.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
 - title: "Twitter Corpus of the #BlackLivesMatter Movement and Counter Protests: 2013 to 2021"
   image: 
   description: 
