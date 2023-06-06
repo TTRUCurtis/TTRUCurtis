@@ -15,7 +15,7 @@
 
 - name: Muhammad Mahbubur Rahman
   photo: mrahman.jpg
-  duration: 
+  duration: Assistant Professor at George Washington University
   info: Postdoc
   email: muhammad.rahman2@nih.gov
   number_educ: 3
@@ -28,6 +28,22 @@
   researchgate: 
   twitter: 
 
+- name: Zachary Demko
+  photo: zdemko.jpg
+  duration: PhD student in Clinical Science at University of Iowa
+  info: Postbaccalaureate Fellow
+  email: zach.demko@nih.gov
+  number_educ: 1
+  education1: BA Psychology and French, University of Wisconsin-Madison
+  education2:
+  education3:
+  education4:
+  website: 
+  gscholar: https://scholar.google.com/citations?user=hJw1ANEAAAAJ
+  linkedin: https://www.linkedin.com/in/zachary-demko-03a88916a/
+  researchgate: 
+  twitter: 
+
 - name: Daniel Habib
   photo: dhabib.jpg
   duration: Medical Student at Vanderbilt University School of Medicine
@@ -35,7 +51,7 @@
   email: daniel.habib@nih.gov
   number_educ: 1
   education1: BA Biophysics, Johns Hopkins University
-  website: 
+  website: https://danielrshabib.github.io/
   gscholar: https://scholar.google.com/citations?user=shz9CgMAAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/dhabib2000/
   researchgate: 
@@ -59,8 +75,8 @@
 
 - name: Amy Kwarteng
   photo: akwarteng.jpg
-  duration: Now a Medical student at University of Michigan Medical School
-  info: Former Postbaccalaureate Fellow
+  duration: Medical student at University of Michigan Medical School
+  info: Postbaccalaureate Fellow
   email: 
   number_educ: 1
   education1: B.S. - Psychology - Yale University
@@ -70,8 +86,8 @@
 
 - name: Kenzie Himelein-Wachowiak
   photo: khimeleinwachowiak.jpg
-  info: Former Postbaccalaureate Fellow
-  duration: Now a PhD student in Clinical Psychology at Temple University
+  info: Postbaccalaureate Fellow
+  duration: PhD student in Clinical Psychology at Temple University
   email: 
   number_educ: 1
   education1: B.A. – Neuroscience – Swarthmore College
@@ -80,8 +96,8 @@
 
 - name: Chase Smitterberg
   photo: csmitterberg.jpg
-  info: Former Postbaccalaureate Fellow
-  duration: Now a Medical student at Michigan State University, College of Human Medicine
+  info: Postbaccalaureate Fellow
+  duration: Medical student at Michigan State University, College of Human Medicine
   email: 
   number_educ: 1
   education1: B.S. - Neuroscience - Michigan State University
@@ -92,7 +108,7 @@
 - name: Karan Luthria
   photo: kluthria.jpg
   info: Summer Research Assistant
-  duration: Now a Research Intern at Department of Biomedical Informatics, Harvard University
+  duration: Research Intern at Department of Biomedical Informatics, Harvard University
   email: 
   number_educ: 1
   education1: B.S. - Biomathematics, Bioinformatics, and Computational Biology - University of Maryland Baltimore County

@@ -14,9 +14,39 @@
   researchgate: https://www.researchgate.net/profile/Brenda-Curtis
   twitter: https://twitter.com/B_Curtis03
 
+
+- name: Salvatore Giorgi
+  photo: sgiorgi.jpg
+  info: Computer Systems Analyst
+  email: sal.giorgi@nih.gov
+  number_educ: 3
+  education1: PhD, Computer Science, University of Pennsylvania (anticipated 2023)
+  education2: MS, Electrical Engineering, Temple University
+  education3: BS, Electrical Engineering, Temple University
+  website: http://www.salvatoregiorgi.com
+  gscholar: https://scholar.google.com/citations?user=0O7xQLkAAAAJ
+  linkedin: 
+  researchgate: 
+  twitter: https://twitter.com/sal_giorgi
+
+
+- name: Jessie Hemmons
+  photo: bio-photo.jpg
+  info: Research Coordinator
+  email: jessie.hemmons@nih.gov
+  number_educ: 3
+  education3: JD, Temple University (anticipated 2025) 
+  education2: MS, Clinical and Counseling Psychology, Chestnut Hill College
+  education1: BS, Psychology, Temple University
+  website: http://www.ishknits.com/
+  gscholar: 
+  linkedin: 
+  researchgate: https://www.researchgate.net/profile/Jessie-Hemmons
+  twitter: 
+
 - name: TingTing Liu
   photo: tlui.jpg
-  info: Postdoc
+  info: Research Fellow
   email: tingting.liu@nih.gov
   number_educ: 5
   education1: Ph.D., Psychology, University of Michigan,  Ann Arbor, MI
@@ -28,22 +58,21 @@
   gscholar: https://scholar.google.com/citations?hl=en&user=MOw0fvkAAAAJ
   linkedin: https://www.linkedin.com/in/tingting-liu-535ba971/
   researchgate: https://www.researchgate.net/profile/Tingting-Liu-28
-  twitter: 
+  twitter: https://twitter.com/hellotingting
 
-- name: Zachary Demko
-  photo: zdemko.jpg
-  info: Postbaccalaureate Fellow
-  email: zach.demko@nih.gov
-  number_educ: 1
-  education1: BA Psychology and French, University of Wisconsin-Madison
-  education2:
-  education3:
-  education4:
-  website: 
-  gscholar: https://scholar.google.com/citations?user=hJw1ANEAAAAJ
-  linkedin: https://www.linkedin.com/in/zachary-demko-03a88916a/
+- name: Adam Goodkind
+  photo: agoodkind.jpg
+  info: Postdoc 
+  email: adam.goodkind@nih.gov
+  number_educ: 3
+  education1: Ph.D., Human-Computer Interaction, Northwestern University
+  education2: MA, Computational Linguistics, CUNY Graduate Center
+  education3: BA, Religion, Columbia University
+  website: https://adamgoodkind.com/
+  gscholar: https://scholar.google.com/citations?user=qCHSV8YAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/adamgoodkind/
   researchgate: 
-  twitter: 
+  twitter: https://twitter.com/adamgreatkind
 
 - name: Sophia Lou
   photo: slou.jpg
@@ -90,18 +119,6 @@
   researchgate: 
   twitter: 
 
-- name: Salvatore Giorgi
-  photo: bio-photo.jpg
-  info: Computer Systems Analyst
-  email: sal.giorgi@nih.gov
-  number_educ: 2
-  education1: MS, Electrical Engineering, Temple University
-  education2: BS, Electrical Engineering, Temple University
-  website: http://www.salvatoregiorgi.com
-  gscholar: https://scholar.google.com/citations?user=0O7xQLkAAAAJ
-  linkedin: 
-  researchgate: 
-  twitter: https://twitter.com/sal_giorgi
 
 
 

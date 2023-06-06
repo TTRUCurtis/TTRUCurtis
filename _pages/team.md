@@ -158,7 +158,9 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.info }}</i>
+  <br>{% if member.website %}<a href="{{ member.website }}"><i class="fa-solid fa-globe" style="color:black"></i></a>{% endif %} {% if member.gscholar %}<a href="{{ member.gscholar }}"><i class="fa-brands fa-google" style="color:black"></i></a>{% endif %} {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin fa-lg" style="color:black"></i></a>{% endif %} {% if member.researchgate %}<a href="{{ member.researchgate }}"><i class="fa-brands fa-researchgate fa-lg" style="color:black"></i></a>{% endif %} {% if member.twitter %}<a href="{{ member.twitter }}"><i class="fa-brands fa-twitter fa-lg" style="color:black"></i></a>{% endif %}
+  <i>Current: {{ member.duration }}</i>
   <ul style="overflow: hidden">
 
   </ul>
