@@ -13,6 +13,7 @@
   linkedin: https://www.linkedin.com/in/brenda-curtis-30a3a05b
   researchgate: https://www.researchgate.net/profile/Brenda-Curtis
   twitter: https://twitter.com/B_Curtis03
+  sscholar: 
 
 
 - name: Salvatore Giorgi
@@ -20,14 +21,15 @@
   info: Computer Systems Analyst
   email: sal.giorgi@nih.gov
   number_educ: 3
-  education1: PhD, Computer Science, University of Pennsylvania (anticipated 2023)
+  education1: PhD, Computer Science, University of Pennsylvania
   education2: MS, Electrical Engineering, Temple University
   education3: BS, Electrical Engineering, Temple University
   website: http://www.salvatoregiorgi.com
-  gscholar: https://scholar.google.com/citations?user=0O7xQLkAAAAJ
+  gscholar: 
   linkedin: 
   researchgate: 
   twitter: https://twitter.com/sal_giorgi
+  sscholar: https://www.semanticscholar.org/author/Salvatore-Giorgi/50360470
 
 
 - name: Jessie Hemmons
@@ -43,6 +45,7 @@
   linkedin: 
   researchgate: https://www.researchgate.net/profile/Jessie-Hemmons
   twitter: 
+  sscholar: 
 
 - name: TingTing Liu
   photo: tlui.jpg
@@ -59,6 +62,7 @@
   linkedin: https://www.linkedin.com/in/tingting-liu-535ba971/
   researchgate: https://www.researchgate.net/profile/Tingting-Liu-28
   twitter: https://twitter.com/hellotingting
+  sscholar: 
 
 - name: Adam Goodkind
   photo: agoodkind.jpg
@@ -73,21 +77,7 @@
   linkedin: https://www.linkedin.com/in/adamgoodkind/
   researchgate: 
   twitter: https://twitter.com/adamgreatkind
-
-- name: Sophia Lou
-  photo: slou.jpg
-  info: Postbaccalaureate Fellow
-  email: sophia.lou@nih.gov
-  number_educ: 2
-  education1: BA Public Health Studies, Johns Hopkins University
-  education2: BM Oboe Performance, Peabody Institute of the Johns Hopkins University
-  education3:
-  education4:
-  website: 
-  gscholar: 
-  linkedin: https://www.linkedin.com/in/sophia-lou-53b49b18b/
-  researchgate: 
-  twitter: 
+  sscholar: 
 
 - name: Zachary Fried
   photo: zfried.jpg
@@ -103,6 +93,55 @@
   linkedin: https://www.linkedin.com/in/friedz/
   researchgate: 
   twitter: 
+  sscholar: 
+
+- name: Kelsey Isman
+  photo: bio-photo.jpg
+  info: Postbaccalaureate Fellow
+  email: kelsey.isman@nih.gov
+  number_educ: 1
+  education1: BA Neuroscience and Behavior, Psychology, and Hispanic Literatures and Cultures, Wesleyan University
+  education2: 
+  education3: 
+  education4:
+  website: 
+  gscholar: 
+  linkedin: https://www.linkedin.com/in/kelseyisman/
+  researchgate: 
+  twitter: 
+  sscholar: 
+
+- name: Pamela Osseyi
+  photo: bio-photo.jpg
+  info: Postbaccalaureate Fellow
+  email: pamela.osseyi@nih.gov
+  number_educ: 1
+  education1: B.S. Psychology, minor in Criminal Justice, Morgan State University
+  education2: 
+  education3: 
+  education4:
+  website: 
+  gscholar: 
+  linkedin: https://www.linkedin.com/in/pamela-osseyi
+  researchgate: 
+  twitter: 
+  sscholar: 
+
+- name: Dahlia Earleywine
+  photo: bio-photo.jpg
+  info: Postbaccalaureate Fellow
+  email: dahlia.earleywine@nih.gov
+  number_educ: 2
+  education1: M.S. Global Medicine from the University of Southern California
+  education2: B.A. Health and Human Sciences from the University of Southern California
+  education3: 
+  education4:
+  website: 
+  gscholar: 
+  linkedin: https://www.linkedin.com/in/dahlia-earleywine-ms-43540a1a9
+  researchgate: 
+  twitter: 
+  sscholar: 
 
 - name: Doug Bellew
   photo: dbellew.jpg
@@ -118,6 +157,7 @@
   linkedin: 
   researchgate: 
   twitter: 
+  sscholar: 
 
 
 
