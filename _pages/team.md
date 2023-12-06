@@ -86,8 +86,8 @@ Jump to [staff](#staff), [PhD and master students](#phd-and-master-students), an
 
 
 
-
-## PhD and Master Students
+<!-- 
+## PhD and Master Students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
