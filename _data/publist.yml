@@ -30,17 +30,17 @@
   supplement: 
   prereg: 
 
-- title: "Relationship between self-stigma about alcohol dependence and severity of alcohol drinking and craving"
+- title: "AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing"
   image: 
   description: 
-  authors: Crozier, M.E., Farokhnia, M., Persky, S., Leggio, L. and Curtis, B.
+  authors: Giorgi, S., Sherman, G., Bellew, D., Guntuku, S.C., Ungar, L. and Curtis, B.
   link:
     url: http://dx.doi.org/10.1136/bmjment-2023-300852
-    display: "BMJ Ment Health (2023)"
+    display: "3rd Workshop for Natural Language Processing Open Source Software at EMNLP (2023)"
   highlight: 0
   news2: 
-  bib: crozier2023relationship.bib
-  pdf: crozier2023relationship.pdf
+  bib: giorgisherman2023awaretext.bib
+  pdf: giorgisherman2023awaretext.pdf
   data: 
   code: 
   supplement: 
