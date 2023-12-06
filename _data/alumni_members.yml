@@ -28,6 +28,22 @@
   researchgate: 
   twitter: 
 
+- name: Sophia Lou
+  photo: slou.jpg
+  duration: Master of Science in Epidemiology candidate at Harvard T.H. School of Public Health
+  info: Postbaccalaureate Fellow
+  email: sophia.lou@nih.gov
+  number_educ: 2
+  education1: BA Public Health Studies, Johns Hopkins University
+  education2: BM Oboe Performance, Peabody Institute of the Johns Hopkins University
+  education3:
+  education4:
+  website: 
+  gscholar: 
+  linkedin: https://www.linkedin.com/in/sophia-lou-53b49b18b/
+  researchgate: 
+  twitter: 
+
 - name: Zachary Demko
   photo: zdemko.jpg
   duration: PhD student in Clinical Science at University of Iowa
@@ -104,6 +120,49 @@
   education2: 
   education3: 
   education4: 
+
+- name: Elise Bragard
+  photo: ebragard.jpg
+  info: PhD student at Fordham University
+  email: ebragard@fordham.edu
+  number_educ: 4
+  education1: M.A., Applied Developmental Psychology, Fordham University, Bronx, NY
+  education2: M.A., Women’s & Gender Studies, CUNY Graduate Center, New York, NY
+  education3: M.A., Theatre Education, Emerson College, Boston, MA
+  education4: B.S., Mathematics, University of Bristol, Bristol, United Kingdom
+  website: 
+  gscholar: 
+  linkedin: 
+  researchgate: https://www.researchgate.net/profile/Elise-Bragard
+  twitter: https://twitter.com/EliseBragard
+
+- name: Aaliyah Gray
+  photo: agray.jpg
+  info: PhD student at Fordham University
+  email: agray11@fordham.edu
+  number_educ: 2
+  education1: M.A., Applied Developmental Psychology, Fordham University, Bronx, NY
+  education2: B.A., Psychology, Stetson University, Deland, FL
+  website: 
+  gscholar: 
+  linkedin: 
+  researchgate: https://www.researchgate.net/profile/Aaliyah_Gray
+  twitter: https://twitter.com/aaliyahgray_
+
+
+- name: Xiangyu Tao
+  photo: xtao.jpg
+  info: PhD student at Fordham University
+  email: xtao16@fordham.edu
+  number_educ: 3
+  education1: M.A., Applied Developmental Psychology, Fordham University
+  education2: M.A., Social Sciences,  University of Chicago, Chicago, IL
+  education3: B.S., Psychology, University of Washington, Seattle, Seattle, WA
+  website: 
+  gscholar: 
+  linkedin: https://scholar.google.com/citations?user=rMh9t9YAAAAJ&hl=en&oi=ao
+  researchgate: https://www.researchgate.net/profile/Xiangyu_Tao2
+  twitter: 
 
 - name: Karan Luthria
   photo: kluthria.jpg
