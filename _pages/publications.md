@@ -25,7 +25,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit><b>{{ publi.title }}</b></pubtit>
+  <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -57,7 +57,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+  <b>{{ publi.title }}</b> <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   [<a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.pdf }}">pdf</a>; <a href="{{ site.url }}{{ site.baseurl }}/bibs/{{ publi.bib }}">bibtex</a>{% if publi.data %}; <a href="{{ publi.data }}">data</a>{% endif %}{% if publi.code %}; <a href="{{ publi.code }}">code</a>{% endif %}{% if publi.supplement %}; <a href="{{ site.url }}{{ site.baseurl }}/pdfs/{{ publi.supplement }}">supplement</a>{% endif %}{% if publi.prereg %}; <a href="{{ publi.prereg }}">preregistration</a>{% endif %}]
 
