@@ -46,6 +46,55 @@
   supplement: 
   prereg: 
 
+- title: "Leveraging AI to predict substance use disorder treatment outcomes"
+  image: 
+  description: 
+  authors: Giorgi, S. and Curtis, B.
+  link:
+    url: https://doi.org/10.1038/s41386-023-01700-6
+    display: "Neuropsychopharmacology (2023)"
+  highlight: 0
+  news2: 
+  bib: giorgi2023leveraging.bib
+  pdf: giorgi2023leveraging.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Extended impact of the COVID-19 pandemic: Trajectories of mental health and substance use among US adults, September 2020–August 2021"
+  image: 
+  description: 
+  authors: Tao, X., Liu, T., Giorgi, S., Fisher, C.B. and Curtis, B.
+  link:
+    url: https://doi.org/10.1016/j.dadr.2023.100186
+    display: "Drug and Alcohol Dependence Reports (2023)"
+  highlight: 0
+  news2: 
+  bib: tao2023extended.bib
+  pdf: tao2023extended.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+
+- title: "Patterns of demoralization and anhedonia during early substance use disorder treatment and associations with treatment attrition"
+  image: 
+  description: 
+  authors: Rabinowitz, J.A., Ellis, J.D., Strickland, J.C., Hochheimer, M., Zhou, Y., Young, A.S., Curtis, B. and Huhn, A.S.
+  link:
+    url: https://doi.org/10.1016/j.jad.2023.05.029
+    display: "Journal of Affective Disorders (2023)"
+  highlight: 0
+  news2: 
+  bib: rabinowitz2023patterns.bib
+  pdf: rabinowitz2023patterns.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
 - title: "Head versus heart: social media reveals differential language of loneliness from depression"
   image: 
   description: 
@@ -150,7 +199,7 @@
   link:
     url: https://doi.org/10.1556/2006.2022.00005
     display: Journal of Behavioral Addictions (2022)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: himeleinwachowiak2022getting.bib
   pdf: himeleinwachowiak2022getting.pdf
@@ -166,7 +215,7 @@
   link:
     url: https://doi.org/10.1016/j.whi.2022.01.004
     display: Women’s Health Issues (2022)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: devoto2022women.bib
   pdf: devoto2022women.pdf
@@ -182,7 +231,7 @@
   link:
     url: https://doi.org/10.3389/fpubh.2021.772236
     display: Frontiers in Public Health (2021)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: fishercovid.bib
   pdf: fishercovid.pdf
@@ -198,7 +247,7 @@
   link:
     url: https://doi.org/10.1093/alcalc/agab056
     display: Alcohol and Alcoholism (2021)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: bragard2021loneliness.bib
   pdf: bragard2021loneliness.pdf
@@ -300,7 +349,7 @@
   link:
     url: https://doi.org/10.2196/26933
     display: Journal of Medical Internet Research (2021)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: himeleinwachowiak2021covid.bib
   pdf: himeleinwachowiak2021covid.pdf
@@ -367,7 +416,7 @@
   link:
     url: https://doi.org/10.3390/ijerph17041125
     display: International Journal of Environmental Research and Public Health (2020)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: giorgi2020cultural.bib
   pdf: giorgi2020cultural.pdf
