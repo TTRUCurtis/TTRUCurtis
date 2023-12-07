@@ -199,7 +199,7 @@
   link:
     url: https://doi.org/10.1556/2006.2022.00005
     display: Journal of Behavioral Addictions (2022)
-  highlight: 0
+  highlight: 1
   news2: 
   bib: himeleinwachowiak2022getting.bib
   pdf: himeleinwachowiak2022getting.pdf
@@ -215,7 +215,7 @@
   link:
     url: https://doi.org/10.1016/j.whi.2022.01.004
     display: Women’s Health Issues (2022)
-  highlight: 0
+  highlight: 1
   news2: 
   bib: devoto2022women.bib
   pdf: devoto2022women.pdf
@@ -231,7 +231,7 @@
   link:
     url: https://doi.org/10.3389/fpubh.2021.772236
     display: Frontiers in Public Health (2021)
-  highlight: 0
+  highlight: 1
   news2: 
   bib: fishercovid.bib
   pdf: fishercovid.pdf
@@ -247,7 +247,7 @@
   link:
     url: https://doi.org/10.1093/alcalc/agab056
     display: Alcohol and Alcoholism (2021)
-  highlight: 0
+  highlight: 1
   news2: 
   bib: bragard2021loneliness.bib
   pdf: bragard2021loneliness.pdf
