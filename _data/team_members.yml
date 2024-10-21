@@ -16,7 +16,7 @@
   sscholar: 
 
 - name: Jessie Hemmons
-  photo: jhemmons.jpg
+  photo: jhemmons.png
   info: Research Coordinator
   email: jessie.hemmons@nih.gov
   number_educ: 3
@@ -77,18 +77,49 @@
   twitter: 
   sscholar: 
 
-- name: Zachary Fried
-  photo: zfried.jpg
+- name: Ankit Aich
+  photo: aaich.jpg
+  info: Postdoc 
+  email: ankit.aich@nih.gov
+  number_educ: 3
+  education1: Ph.D., Computer Science, University of Illinois
+  education2: M.S., Computer Science, University of Illinois
+  education3: B.Tech, Information Technology, West Bengal Univ of Technology
+  website: https://ankitaich.com/
+  gscholar: 
+  linkedin: 
+  researchgate: 
+  twitter: 
+  sscholar: 
+
+- name: Allie Lahnala
+  photo: alahnala.png
+  info: Postdoctoral Fellow
+  email: allison.lahnala@nih.gov
+  number_educ: 3
+  education1: B.S. Computer Science, University of Michigan
+  education2: M.S. Computer Science, University of Michigan
+  education3: Ph.D. Computer Science, University of Bonn
+  education4:
+  website: https://alahnala.github.io
+  gscholar: https://scholar.google.com/citations?user=hm4EdRIAAAAJ
+  linkedin: https://www.linkedin.com/in/lahnala
+  researchgate: https://www.researchgate.net/profile/Allison-Lahnala/
+  twitter: https://twitter.com/AllieLahnala
+  sscholar: https://www.semanticscholar.org/author/1801600316
+
+- name: Rushana Bobojonova
+  photo: rushana.jpg
   info: Postbaccalaureate Fellow
-  email: zachary.fried@nih.gov
+  email: ruhshana.bobojonova@nih.gov
   number_educ: 1
-  education1: BS Chemistry, Oregon State University
+  education1: B.S. Biological Sciences, University of Maryland, Baltimore County
   education2: 
-  education3:
+  education3: 
   education4:
   website: 
   gscholar: 
-  linkedin: https://www.linkedin.com/in/friedz/
+  linkedin: https://www.linkedin.com/in/ruhshana-bobojonova
   researchgate: 
   twitter: 
   sscholar: 
@@ -125,18 +156,18 @@
   twitter: 
   sscholar: 
 
-- name: Dahlia Earleywine
-  photo: dearleywine.png
-  info: Postbaccalaureate Fellow
-  email: dahlia.earleywine@nih.gov
-  number_educ: 2
-  education1: M.S. Global Medicine from the University of Southern California
-  education2: B.A. Health and Human Sciences from the University of Southern California
+- name: Sourabh Swargam
+  photo: sourabh.jpg
+  info: Data Scientist
+  email: sourabh.swargam@nih.gov
+  number_educ: 1
+  education1: M.S. Computer Science, University of Illinois Chicago, Chicago
+  education2: 
   education3: 
   education4:
   website: 
   gscholar: 
-  linkedin: https://www.linkedin.com/in/dahlia-earleywine-ms-43540a1a9
+  linkedin: https://linkedin.com/in/sourabh-swargam
   researchgate: 
   twitter: 
   sscholar: 

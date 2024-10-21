@@ -28,6 +28,38 @@
   researchgate: 
   twitter: 
 
+- name: Dahlia Earleywine
+  photo: dearleywine.png
+  info: Postbaccalaureate Fellow
+  email: dahlia.earleywine@nih.gov
+  number_educ: 2
+  education1: M.S. Global Medicine from the University of Southern California
+  education2: B.A. Health and Human Sciences from the University of Southern California
+  education3: 
+  education4:
+  website: 
+  gscholar: 
+  linkedin: https://www.linkedin.com/in/dahlia-earleywine-ms-43540a1a9
+  researchgate: 
+  twitter: 
+  sscholar: 
+
+  - name: Zachary Fried
+  photo: zfried.jpg
+  info: Postbaccalaureate Fellow
+  email: zachary.fried@nih.gov
+  number_educ: 1
+  education1: BS Chemistry, Oregon State University
+  education2: 
+  education3:
+  education4:
+  website: 
+  gscholar: 
+  linkedin: https://www.linkedin.com/in/friedz/
+  researchgate: 
+  twitter: 
+  sscholar: 
+
 - name: Sophia Lou
   photo: slou.jpg
   duration: Master of Science in Epidemiology candidate at Harvard T.H. School of Public Health
