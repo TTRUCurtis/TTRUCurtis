@@ -1,3 +1,35 @@
+- title: "Key language markers of depression on social media depend on race"
+  image: 
+  description: 
+  authors: Rai, S., Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C.
+  link:
+    url: https://doi.org/10.1073/pnas.2319837121
+    display: "PNAS (2024)"
+  highlight: 1
+  news2: 
+  bib: rai2024key.bib
+  pdf: rai2024key.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Differential temporal utility of passively sensed smartphone features for depression and anxiety symptom prediction: a longitudinal cohort study"
+  image: 
+  description: 
+  authors: Stamatis, C.A., Meyerhoff, J., Meng, Y., Lin, Z.C.C., Cho, Y.M., Liu, T., Karr, C.J., Liu, T., Curtis, B.L., Ungar, L.H. & Mohr, D.C.
+  link:
+    url: https://doi.org/10.1038/s44184-023-00041-y
+    display: "npj Mental Health Research (2024)"
+  highlight: 0
+  news2: 
+  bib: stamatis2024differential.bib
+  pdf: stamatis2024differential.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
 - title: "Smartphone sensor data estimate alcohol craving in a cohort of patients with alcohol-associated liver disease and alcohol use disorder"
   image: 
   description: 
