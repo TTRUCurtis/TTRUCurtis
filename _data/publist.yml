@@ -1,13 +1,13 @@
 - title: "Modeling Human Subjectivity in LLMs Using Explicit and Implicit Human Factors in Personas"
   image: 
   description: 
-  authors: Giorgi, S., Liu, T., Aich, A., Isman, K., Sherman, G., Fried, Z., Sedoc, J., Ungar, L.H. and Curtis, B.,
+  authors: Giorgi, S., Liu, T., Aich, A., Isman, K., Sherman, G., Fried, Z., Sedoc, J., Ungar, L.H. and Curtis, B.
   link:
     url: https://arxiv.org/abs/2406.14462
     display: "Findings of EMNLP (2024)"
   highlight: 0
   news2: 
-  bib: 
+  bib: giorgi2024modeling.bib
   pdf: giorgi2024modeling.pdf
   data: 
   code: 
@@ -16,7 +16,7 @@
 - title: "Key language markers of depression on social media depend on race"
   image: 
   description: 
-  authors: Rai, S., Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C.
+  authors: Rai, S., Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., and Guntuku, S. C.
   link:
     url: https://doi.org/10.1073/pnas.2319837121
     display: "PNAS (2024)"
@@ -29,21 +29,21 @@
   supplement: 
   prereg: 
 
-  - title: "Evaluating generative AI responses to real-world drug-related questions"
-    image: 
-    description: 
-    authors: Giorgi, S., Isman, K., Liu, T., Fried, Z., Sedoc, J., & Curtis, B.
-    link:
-      url: https://doi.org/10.1016/j.psychres.2024.116058
-      display: "Psychiatry Research (2024)"
-    highlight: 1
-    news2: 
-    bib: giorgi2024evaluating.bib
-    pdf: giorgi2024evaluating.pdf
-    data: 
-    code: 
-    supplement: 
-    prereg: 
+- title: "Evaluating generative AI responses to real-world drug-related questions"
+  image: 
+  description: 
+  authors: Giorgi, S., Isman, K., Liu, T., Fried, Z., Sedoc, J., and Curtis, B.
+  link:
+    url: https://doi.org/10.1016/j.psychres.2024.116058
+    display: "Psychiatry Research (2024)"
+  highlight: 1
+  news2: 
+  bib: giorgi2024evaluating.bib
+  pdf: giorgi2024evaluating.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
 
 - title: "Designing clinical trials to address alcohol use and alcohol-associated liver disease: an expert panel Consensus Statement"
   image: 
