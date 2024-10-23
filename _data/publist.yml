@@ -1,3 +1,18 @@
+- title: "Modeling Human Subjectivity in LLMs Using Explicit and Implicit Human Factors in Personas"
+  image: 
+  description: 
+  authors: Giorgi, S., Liu, T., Aich, A., Isman, K., Sherman, G., Fried, Z., Sedoc, J., Ungar, L.H. and Curtis, B.,
+  link:
+    url: https://arxiv.org/abs/2406.14462
+    display: "Findings of EMNLP (2024)"
+  highlight: 0
+  news2: 
+  bib: 
+  pdf: giorgi2024modeling.pdf
+  data: 
+  code: 
+  supplement: 
+
 - title: "Key language markers of depression on social media depend on race"
   image: 
   description: 
@@ -9,6 +24,70 @@
   news2: 
   bib: rai2024key.bib
   pdf: rai2024key.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+  - title: "Evaluating generative AI responses to real-world drug-related questions"
+    image: 
+    description: 
+    authors: Giorgi, S., Isman, K., Liu, T., Fried, Z., Sedoc, J., & Curtis, B.
+    link:
+      url: https://doi.org/10.1016/j.psychres.2024.116058
+      display: "Psychiatry Research (2024)"
+    highlight: 1
+    news2: 
+    bib: giorgi2024evaluating.bib
+    pdf: giorgi2024evaluating.pdf
+    data: 
+    code: 
+    supplement: 
+    prereg: 
+
+- title: "Designing clinical trials to address alcohol use and alcohol-associated liver disease: an expert panel Consensus Statement"
+  image: 
+  description: 
+  authors: Lee, B., Witkiewitz, K., Mellinger, J., Anania, F., Bataller, R., Cotter, T., Curtis, B., Dasarathy, S., DeMartini, K., Diamond, I., Diazgranados, N., DiMartini, A., Falk, D., Fernandez, A., German, M., Kamath, P., Kidwell, K., Leggio, L., Litten, R., Louvet, A., Lucey, M., McCaul, M., Sanyal, A., Singal, A., Sussman, N., Terrault, N., Thursz, M., Verna, E., Radaeva, S., Nagy, L., Mitchell, M.
+  link:
+    url: https://doi.org/10.1038/s41575-024-00936-x
+    display: "Nature Reviews: Gastroenterology and Hepatology (2024)"
+  highlight: 0
+  news2: 
+  bib: lee2024designing.bib
+  pdf: lee2024designing.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Lived Experience Matters: Automatic Detection of Stigma toward People Who Use Substances on Social Media"
+  image: 
+  description: 
+  authors: Giorgi, S., Bellew, D., Habib, D. R. S., Sedoc, J., Smitterberg, C., Devoto, A., Himelein-Wachowiak, M., & Curtis, B.
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/31328
+    display: "ICWSM (2024)"
+  highlight: 0
+  news2: 
+  bib: giorgi2024lived.bib
+  pdf: giorgi2024lived.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Insights into ALD & AUD diagnosis and prognosis: Exploring AI and multi-modal data streams"
+  image: 
+  description: 
+  authors: Narayanan, P., Wu, T., Shah, V. H., & Curtis, B.
+  link:
+    url: https://doi.org/10.1097/HEP.0000000000000929
+    display: "Hepatology (2024)"
+  highlight: 0
+  news2: 
+  bib: narayanan2024insights.bib
+  pdf: narayanan2024insights.pdf
   data: 
   code: 
   supplement: 
@@ -30,6 +109,294 @@
   supplement: 
   prereg: 
 
+- title: "Development of a Novel Method of Assessing Potential Loss of Control in Internet Gaming Disorder"
+  image: 
+  description: 
+  authors: Demko, Z., Liu, T., Curtis, B., & Green, C. S.
+  link:
+    url: https://doi.org/10.1037/tmb0000119
+    display: "Technology, Mind, and Behavior (2023)"
+  highlight: 0
+  news2: 
+  bib: demko2023development.bib
+  pdf: demko2023development.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "A linguistic analysis of dehumanization toward substance use across three decades of news articles"
+  image: 
+  description: 
+  authors: Giorgi, S., Habib, D.R.S., Bellew, D., Sherman, G. and Curtis, B.
+  link:
+    url: https://doi.org/10.3389/fpubh.2023.1275975 
+    display: "Frontiers in Public Health (2023)"
+  highlight: 0
+  news2: 
+  bib: giorgi2023linguistic.bib
+  pdf: giorgi2023linguistic.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Relationship between self-stigma about alcohol dependence and severity of alcohol drinking and craving"
+  image: 
+  description: 
+  authors: Crozier, M. E., Farokhnia, M., Persky, S., Leggio, L., & Curtis, B.
+  link:
+    url: https://doi.org/10.1136/bmjment-2023-300852
+    display: "BMJ Mental Health (2023)"
+  highlight: 0
+  news2: 
+  bib: crozier2024relationship.bib
+  pdf: crozier2024relationship.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "AI-based analysis of social media language predicts addiction treatment dropout at 90 days"
+  image: 
+  description: 
+  authors: Curtis, B., Giorgi, S., Ungar, L., Vu, H., Yaden, D., Liu, T., Yadetta, K., & Schwartz, H. A.
+  link:
+    url: https://doi.org/10.1038/s41386-023-01585-5
+    display: "Neuropsychopharmacology (2023)"
+  highlight: 0
+  news2: 
+  bib: curtis2023aibased.bib
+  pdf: curtis2023aibased.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Effect of integrating patient-generated digital data into mental health therapy: a randomized controlled trial"
+  image: 
+  description: 
+  authors: Merchant, R., Southwick, L., Beidas, R., Mandell, D., Guntuku, S., Pelullo, A., Yang, L., Mitra, N., Curtis, B., Ungar, L., Asch, D.
+  link:
+    url: https://doi.org/10.1176/appi.ps.20220272
+    display: "Psychiatric Services (2023)"
+  highlight: 0
+  news2: 
+  bib: merchant2023effect.bib
+  pdf: merchant2023effect.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Role of the media in promoting the dehumanization of people who use drugs"
+  image: 
+  description: 
+  authors: Habib, D. R. S., Giorgi, S., & Curtis, B.
+  link:
+    url: https://doi.org/10.1080/00952990.2023.2180383
+    display: "The American Journal of Drug and Alcohol Abuse (2023)"
+  highlight: 0
+  news2: 
+  bib: habib2023role.bib
+  pdf: habib2023role.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Analyzing text message linguistic features: Do people with depression communicate differently with their close and non-close contacts?"
+  image: 
+  description: 
+  authors: Meyerhoff, J., Liu, T., Stamatis, C., Liu, T., Wang, H., Meng, Y., Curtis, B., Karr, C., Sherman, G., Ungar, Lyle., Mohr, D.
+  link:
+    url: https://doi.org/10.1080/00952990.2023.2180383
+    display: "Behaviour Research and Therapy (2023)"
+  highlight: 0
+  news2: 
+  bib: meyerhoff2023analyzing.bib
+  pdf: meyerhoff2023analyzing.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Differences in mental health and alcohol use across profiles of COVID-19 disruptions"
+  image: 
+  description: 
+  authors: Gray, B., Liu, T., Fisher, C., Curtis, B.
+  link:
+    url: https://doi.org/10.1093/alcalc/agad028
+    display: "Alcohol and Alcoholism (2023)"
+  highlight: 0
+  news2: 
+  bib: gray2023differences.bib
+  pdf: gray2023differences.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+  
+- title: "Predicting US county opioid poisoning mortality from multi-modal social media and psychological self-report data"
+  image: 
+  description: 
+  authors: Giorgi, S., Yaden, D., Eichstaedt, J., Ungar, L., Schwartz, H. A., Kwarteng, A., Curtis, B.
+  link:
+    url: https://doi.org/10.1038/s41598-023-34468-2
+    display: "Scientific Reports (2023)"
+  highlight: 0
+  news2: 
+  bib: giorgi2023predicting.bib
+  pdf: giorgi2023predicting.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+  
+- title: "Different affordances on facebook and SMS text messaging do not impede generalization of language-based predictive models"
+  image: 
+  description: 
+  authors: Liu, T., Giorgi, S., Tao, X., Guntuku, S. C., Bellew, D., Curtis, B., Ungar, L.
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/22226
+    display: "ICWSM (2023)"
+  highlight: 0
+  news2: 
+  bib: liu2023different.bib
+  pdf: liu2023different.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+  
+- title: "Racial and ethnic bias in the diagnosis of alcohol use disorder in veterans"
+  image: 
+  description: 
+  authors: Vickers-Smith, R., Justice, A. C., Becker, W. C., Rentsch, C. T., Curtis, B., Fernander, A., Hartwell, E. E., Ighodaro, E. T., Kember, R. L., Tate, J., Kranzler, H. R.
+  link:
+    url: https://doi.org/10.1176/appi.ajp.21111097
+    display: "American Journal of Psychiatry (2023)"
+  highlight: 0
+  news2: 
+  bib: vickerssmith2023racial.bib
+  pdf: vickerssmith2023racial.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Racial and ethnic bias in the diagnosis of alcohol use disorder in veterans"
+  image: 
+  description: 
+  authors: Vickers-Smith, R., Justice, A. C., Becker, W. C., Rentsch, C. T., Curtis, B., Fernander, A., Hartwell, E. E., Ighodaro, E. T., Kember, R. L., Tate, J., Kranzler, H. R.
+  link:
+    url: https://doi.org/10.1176/appi.ajp.21111097
+    display: "American Journal of Psychiatry (2023)"
+  highlight: 0
+  news2: 
+  bib: vickerssmith2023racial.bib
+  pdf: vickerssmith2023racial.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Detecting Symptoms of Depression on Reddit"
+  image: 
+  description: 
+  authors: Liu, T., Jain, D., Rapole, S. R., Curtis, B., Eichstaedt, J. C., Ungar, L. H., Guntuku, S. C. 
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3578503.3583621
+    display: "ACM Web Science Conference (2023)"
+  highlight: 0
+  news2: 
+  bib: liu2023detecting.bib
+  pdf: liu2023detecting.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Pandemic distress associated with segregation and social stressors"
+  image: 
+  description: 
+  authors: Turpin, R., Giorgi, S., Curtis, B.
+  link:
+    url: https://doi.org/10.3389/fpubh.2023.1092269 
+    display: "Frontiers in Public Health (2023)"
+  highlight: 0
+  news2: 
+  bib: turpin2023pandemic.bib
+  pdf: turpin2023pandemic.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Opioid death projections with AI-based forecasts using social media language"
+  image: 
+  description: 
+  authors: Matero, M., Giorgi, S., Curtis, B., Ungar, L. H., Schwartz, H. A.
+  link:
+    url: https://doi.org/10.1038/s41746-023-00776-0
+    display: "NPJ Digital Medicine (2023)"
+  highlight: 0
+  news2: 
+  bib: matero2023opioid.bib
+  pdf: matero2023opioid.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Measuring disadvantage: A systematic comparison of United States small-area disadvantage indices"
+  image: 
+  description: 
+  authors: Lou, S., Giorgi, S., Liu, T., Eichstaedt, J. C., Curtis, B.
+  link:
+    url: https://doi.org/10.1016/j.healthplace.2023.102997
+    display: "Health and Place (2023)"
+  highlight: 0
+  news2: 
+  bib: lou2023measuring.bib
+  pdf: lou2023measuring.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "COVID-related social determinants of substance use disorder among diverse US racial ethnic groups"
+  image: 
+  description: 
+  authors: Tao, X., Liu, T., Fisher, C. B., Giorgi, S., Curtis, B.
+  link:
+    url: https://doi.org/10.1016/j.socscimed.2022.115599
+    display: "Social Science and Medicine (2023)"
+  highlight: 0
+  news2: 
+  bib: tao2023covidrelated.bib
+  pdf: tao2023covidrelated.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
+- title: "Linguistic methodologies to surveil the leading causes of mortality: scoping review of Twitter for public health data"
+  image: 
+  description: 
+  authors: Lane, J., Habib, D., Curtis, B
+  link:
+    url: https://doi.org/10.2196/39484
+    display: "Journal of Medical Internet Research (2023)"
+  highlight: 0
+  news2: 
+  bib: lane2023linguistic.bib
+  pdf: lane2023linguistic.pdf
+  data: 
+  code: 
+  supplement: 
+  prereg: 
+
 - title: "Smartphone sensor data estimate alcohol craving in a cohort of patients with alcohol-associated liver disease and alcohol use disorder"
   image: 
   description: 
@@ -37,7 +404,7 @@
   link:
     url: https://journals.lww.com/hepcomm/fulltext/2023/12010/smartphone_sensor_data_estimate_alcohol_craving_in.19.aspx
     display: "Hepatology Communications (2023)"
-  highlight: 0
+  highlight: 1
   news2: 
   bib: wu2023smartphone.bib
   pdf: wu2023smartphone.pdf
@@ -231,7 +598,7 @@
   link:
     url: https://doi.org/10.1556/2006.2022.00005
     display: Journal of Behavioral Addictions (2022)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: himeleinwachowiak2022getting.bib
   pdf: himeleinwachowiak2022getting.pdf
@@ -247,7 +614,7 @@
   link:
     url: https://doi.org/10.1016/j.whi.2022.01.004
     display: Women’s Health Issues (2022)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: devoto2022women.bib
   pdf: devoto2022women.pdf
@@ -263,7 +630,7 @@
   link:
     url: https://doi.org/10.3389/fpubh.2021.772236
     display: Frontiers in Public Health (2021)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: fishercovid.bib
   pdf: fishercovid.pdf
@@ -279,7 +646,7 @@
   link:
     url: https://doi.org/10.1093/alcalc/agab056
     display: Alcohol and Alcoholism (2021)
-  highlight: 1
+  highlight: 0
   news2: 
   bib: bragard2021loneliness.bib
   pdf: bragard2021loneliness.pdf
