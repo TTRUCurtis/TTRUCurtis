@@ -155,7 +155,8 @@
 
 - name: Katherine Guerrerio
   photo: kguerrerio.jpg
-  info: student at Johns Hopkins University
+  info: 
+  duration: student in Computer Science and Applied Mathematics at Johns Hopkins University
   email: kateguerrerio@gmail.com
   number_educ: 2
   education1: B.S., Computer Science, Johns Hopkins University (anticipated 2027)
@@ -168,13 +169,29 @@
   researchgate: 
   twitter: 
 
+- name: Ruth Jin-Hee Heo
+  photo: rheo.png
+  info: 
+  duration: 
+  email: ruthheo25@gmail.com 
+  number_educ: 3
+  education1: B.A., Communication, Ohio State University 
+  education2: M.A., Communication, Michigan State University 
+  education3: Ph.D., Communication, Michigan State University (anticipated 2025)
+  education4: 
+  website: 
+  gscholar: 
+  linkedin: https://www.linkedin.com/in/ruth-heo-27b445129/
+  researchgate: 
+  twitter:
+
 - name: Elise Bragard
   photo: ebragard.jpg
   info: PhD student at Fordham University
   email: ebragard@fordham.edu
   number_educ: 4
   education1: M.A., Applied Developmental Psychology, Fordham University, Bronx, NY
-  education2: M.A., Women’s & Gender Studies, CUNY Graduate Center, New York, NY
+  education2: M.A., Women's & Gender Studies, CUNY Graduate Center, New York, NY
   education3: M.A., Theatre Education, Emerson College, Boston, MA
   education4: B.S., Mathematics, University of Bristol, Bristol, United Kingdom
   website: 
