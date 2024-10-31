@@ -285,22 +285,6 @@
   supplement: 
   prereg: 
 
-- title: "Racial and ethnic bias in the diagnosis of alcohol use disorder in veterans"
-  image: 
-  description: 
-  authors: Vickers-Smith, R., Justice, A. C., Becker, W. C., Rentsch, C. T., Curtis, B., Fernander, A., Hartwell, E. E., Ighodaro, E. T., Kember, R. L., Tate, J., Kranzler, H. R.
-  link:
-    url: https://doi.org/10.1176/appi.ajp.21111097
-    display: "American Journal of Psychiatry (2023)"
-  highlight: 0
-  news2: 
-  bib: vickerssmith2023racial.bib
-  pdf: vickerssmith2023racial.pdf
-  data: 
-  code: 
-  supplement: 
-  prereg: 
-
 - title: "Detecting Symptoms of Depression on Reddit"
   image: 
   description: 
