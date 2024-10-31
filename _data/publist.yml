@@ -14,8 +14,8 @@
   supplement: 
 
 - title: "Key language markers of depression on social media depend on race"
-  image: 
-  description: 
+  image: devoto2022women.jpg
+  description: This study shows how race moderates the relationship between language and depression, with I-usage predicting depression in White individuals but not in Black individuals. These results show that psychological processes thought to predict depression may be less relevant in populations historically excluded from psychological research.
   authors: Rai, S., Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., and Guntuku, S. C.
   link:
     url: https://doi.org/10.1073/pnas.2319837121
@@ -31,7 +31,7 @@
 
 - title: "Evaluating generative AI responses to real-world drug-related questions"
   image: 
-  description: 
+  description: Here explored the potential of generative AI systems in supporting substance use disorder treatment. Clinicians rated AI-generated responses to substance use questions highly (even calling ChatGPT a "great listener"), despite the fact generations included disinformation and dangerous medical advice.
   authors: Giorgi, S., Isman, K., Liu, T., Fried, Z., Sedoc, J., and Curtis, B.
   link:
     url: https://doi.org/10.1016/j.psychres.2024.116058
@@ -383,7 +383,7 @@
 
 - title: "Smartphone sensor data estimate alcohol craving in a cohort of patients with alcohol-associated liver disease and alcohol use disorder"
   image: 
-  description: 
+  description: We used mobile phone sensor data to characterize patients with alcohol-associated liver disease and alcohol use disorder. Patient data showed relationships between certain sensor features, like location entropy, and alcohol craving; we also found that sensors that correlate with mood tend also to correlate with craving.
   authors: Wu, T., Sherman, G., Giorgi, S., Thanneeru, P., Ungar, L.H., Kamath, P.S., Simonetto, D.A., Curtis, B.L., & Shah, V.H.
   link:
     url: https://journals.lww.com/hepcomm/fulltext/2023/12010/smartphone_sensor_data_estimate_alcohol_craving_in.19.aspx
